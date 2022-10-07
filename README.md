@@ -1,6 +1,6 @@
 # Reefistry
 
-![Screenshot of Dashboard](https://github.com/stephen-ho/Reefistry/blob/main/dashboard.png)
+<img src="https://github.com/stephen-ho/Reefistry/blob/main/dashboard.png" width="250"/>
 
 Project Description
 ----------------
