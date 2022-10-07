@@ -1,5 +1,7 @@
 # Reefistry
 
+![Screenshot of Dashboard](https://github.com/stephen-ho/Reefistry/blob/main/dashboard.png)
+
 Project Description
 ----------------
 This app is a simple-to-use logging software to keep track of your aquarium's water parameters. The dashboard renders your most recent test data with color and arrows compared with previously entered data and acceptable ranges based on natural seawater. Click into each parameter to see a more in-depth log of your past 5 data points and a line graph to track stability.
